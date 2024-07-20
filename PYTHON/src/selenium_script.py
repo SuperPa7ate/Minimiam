@@ -9,17 +9,14 @@ def recup_URL(mots_cles,resultats_checkbox=[]):
 
     #appel de Selenium et mise en place des paramètres nécessaires pour le driver
     from selenium import webdriver
-    from shutil import which                                    #permet d'appeler le module driver du browser
     from selenium.webdriver.firefox.options import Options      #permet d'activer ou désactiver headless
-    from selenium.webdriver.common.keys import Keys             #import du module qui émule les touches de clavier
     from selenium.webdriver.common.by import By
 
     option=Options()
     option.add_argument("--headless")                                      #False = on voit le navigateur en action
-    driver="C:\\xampp\\htdocs\\v1.0\\PYTHON\\src\\geckodriver.exe"                            #instanciation du navigateur
-
+#executable_path="C:\\xampp\\htdocs\\v1.0\\PYTHON\\src\\geckodriver.exe", 
     #configuration rapide du navigateur (facilite des choses plus tard)
-    browser=webdriver.Firefox(executable_path=driver, options=option)
+    browser=webdriver.Firefox(options=option)
     ublock="C:\\xampp\\htdocs\\v1.0\\PYTHON\\src\\ublock.xpi"
     i_dont_care_about_cookies="C:\\xampp\\htdocs\\v1.0\\PYTHON\\src\\idc.xpi"
     browser.install_addon(ublock)
@@ -102,7 +99,7 @@ def recup_URL(mots_cles,resultats_checkbox=[]):
     nbr_url=0
     for e in recettes:
         nbr_url=nbr_url+len(e)
-    print(nbr_url,"url ont été scrap")
+    #print(nbr_url,"url ont été scrap")
 
     return recettes #nbr_url
 

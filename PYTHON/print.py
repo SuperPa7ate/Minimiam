@@ -7,4 +7,4 @@ import sys
 # b="\""+a+"\""
 # print(b)
 
-print(sys.argv[1])
+print(sys.argv[1],"bjr")

@@ -23,7 +23,7 @@ $( document ).ready(function() { // Charge le JS après que toute la page soit c
     
         $.ajax({
             type: "POST",
-            url: "../script_recherche_sites.php",
+            url: "scripts_php/script_recherche.php",
             data: {"recette":req1, "site":site},
             dataType: "html",
             success: function (response) {
@@ -32,7 +32,6 @@ $( document ).ready(function() { // Charge le JS après que toute la page soit c
                     $("#resultats").html(response);
                     $("#resultats").show(response);
                 }else{
-                    alert("aaa");
                     $("double_recherche").hide(response);
                     $("#resultats_double_recherche").html(response);
                 }
@@ -47,7 +46,7 @@ $( document ).ready(function() { // Charge le JS après que toute la page soit c
 
         $.ajax({
             type: "POST",
-            url: "../omqcs.php",
+            url: "scripts_php/script_omqcs.php",
             data: {},
             dataType: "html",
             success: function (response) {
@@ -80,7 +79,7 @@ $( document ).ready(function() { // Charge le JS après que toute la page soit c
             
             $.ajax({
                 type: "POST",
-                url: "../RechercheRecente.php",
+                url: "scripts_php/script_historique.php",
                 data: {},
                 dataType: "html",
                 success: function (response) {
@@ -108,22 +107,6 @@ $( document ).ready(function() { // Charge le JS après que toute la page soit c
 
 //Fonctions de la page de connexion (normalement pris en charge par form dans php dynamique)
 
-    //récupération login et mdp
-
-    $("#loginBtn").on("click",function(){
-        let login =$("#login").val();
-        let mdp =$("#mdp").val();
-        $.ajax({
-            method: 'post',
-            url: '../script_connexion.php',
-            data:{'login':login, 'mdp':mdp},
-            dataType : 'html',
-            success : function(reponse,statut) {
-                $("#repConnexion").html(reponse);
-            }
-        });
-    });
-
 ///////////////////////////////////////////////////////
 
 //Fonctions de la page d'inscription
@@ -132,17 +115,17 @@ $( document ).ready(function() { // Charge le JS après que toute la page soit c
 
     $("#inscriptionBtn").on({
         "click" : function() {
-            let new_login=$("#newlogin").val();
-            let new_mdp=$("#newmdp").val();
+            let new_login=$("#login").val();
+            let new_mdp=$("#mdp").val();
             let new_mail=$("#mail").val();
 
             $.ajax({
                 type: "POST",
-                url: "../script_inscription.php",
+                url: "scripts_php/script_inscription.php",
                 data: {"login":new_login, "mdp":new_mdp, "mail":new_mail},
                 dataType: "html",
                 success: function (response) {
-                    $("#repInscription").html(response)
+                    $("#repIns").html(response)
                 }
             });
         }

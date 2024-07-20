@@ -1,3 +1,6 @@
+<?php
+?>
+
 <html>
 
     <head>
@@ -18,9 +21,7 @@
             <nav class="navbar navbar-expand-lg bg-light fixed-top">
                 <div class="container-fluid">
                     <div class="logo mr-auto">
-                        <a href="main.html">
-                            <img id="logoH" src="../IMAGES/Elements transparents-02.png" alt="Logo Mini" class="img-fluid" />
-                        </a>
+                        <img id="logoH" src="IMAGES/Elements transparents-02.png" alt="Logo Mini" class="img-fluid" />
                     </div>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -43,7 +44,7 @@
                         <div class="row justify-content-center align-items-center">
 
                             <div class="col-8 col-sm-6 col-lg-3">
-                                <img id="" src="../IMAGES/LOGO-transparent-01.png" alt="Logo" class="img-fluid" />
+                                <img id="" src="IMAGES/LOGO-transparent-01.png" alt="Logo" class="img-fluid" />
                             </div>
                             
                             <div class="col-12">

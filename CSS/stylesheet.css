@@ -1,11 +1,15 @@
 body {
     background-color: #2c2929 ;
-    color: #f68642;
+}
+
+a   { color :#ffffff;
 }
 
 #LogoH {
     height:40px;
 }
+
+
 
 /*
 FORM
@@ -16,6 +20,11 @@ FORM
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#text_color_results {
+    color:rgb(0, 0, 0) !important;
 }
 
 #logoFP {
@@ -45,7 +54,6 @@ Bouton
 
 /* Ecran de connexion */
 
-
 #FConnexion {
     border-radius: 50% 20% / 10% 40%;
 }
@@ -57,3 +65,10 @@ Bouton
     margin-top:200px;
 }
 
+#repCo{
+    margin-top:30px;
+}
+
+#Ins{
+    margin-top:50px;
+}

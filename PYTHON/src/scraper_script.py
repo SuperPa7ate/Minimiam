@@ -1,6 +1,4 @@
 def scrap_URL(tableau_recettes):
-
-
     from recipe_scrapers import scrape_me
 
     str_recettes=""
@@ -15,5 +13,9 @@ def scrap_URL(tableau_recettes):
             #on écrit dans un document chaque ingrédient de la liste d'ingrédients récupérée
             for ingredient in ingredients:
                 str_recettes=str_recettes+ingredient+"\n"
-    print("("+str(i),"listes d'ingrédients recuperées)</br>")
+    #print("("+str(i),"listes d'ingrédients recuperées)</br>")
     return str_recettes
+        # str_recettes=str_recettes+"\n\n"
+    
+    # with open("test.txt","w") as t:
+    #     t.write(str_recettes)

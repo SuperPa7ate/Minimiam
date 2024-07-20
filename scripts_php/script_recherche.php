@@ -1,10 +1,8 @@
 <?php
-    include_once('Connexion.php');      
+    include_once('connexion.php');      
     if (isset($_POST['recette'])) { // Vérification si la variable POST Recette existe
         $recette=$_POST['recette']; // Déclaration de la variable Recette  
 
-        $recette="\"".$recette."\"";
-        
         $verif =$pdo->prepare("SELECT * FROM scrap WHERE nom =?"); // Préparation de la requête pour vérifier si la recette a été scrappée ou non
         $verif->execute([$recette]); // Execution de la requête avec le nom de la recette
         $ingr = $verif->fetch(); // On extrait les ingrédients, ce qui confirme si la recette existe dans la BDD
@@ -28,16 +26,16 @@
                 print "La requête n'a pas pu s'effectuer"; // Si il est impossible d'écrire dans le tableau, afficher un message d'erreur
                 } 
             
-        } else { // Si la variable POST n'existe pas, lancer le script python pour l'inclure dans la base de données
+        } else { // Si le nom de la recette ne figure pas dans la BDD on lance le scrappeur
 
-                //si on lance le script python, alors on vérifie si des cases de réglages ont été cochées
+                //on vérifie si des cases de réglages ont été cochées (sélection des sites)
                 if(empty($_POST["site"])){
 
                     //si non on lance le script python avec uniquement la requête utilisateur
-                    $scrap=`python PYTHON/main.py $recette`;
-                    echo $scrap;
+                $scrap=shell_exec("python ../PYTHON/main.py \"$recette\"");
+                echo $scrap;
 
-                    $scrap1="La lesti minimale pour : tarte à la fraise";
+
                     
 
                 } else {
@@ -45,12 +43,11 @@
                     //si oui on transforme les valeurs des checkbox en tableau pour les envoyer vers python
                     $site=json_encode($_POST["site"]);
                     
-                    $scrap=`python PYTHON/main.py \"$recette\" $site`;
+                    $scrap=shell_exec("python ../PYTHON/main.py \"$recette\" $site");
                     echo $scrap;
                 }
-            //sleep(120);
-            #$reqAjout = "INSERT INTO scrap(nom, ingredient) VALUES ('$recette','$scrap')"; // Préparation de la requête afin 
-            #$pdo->query($reqAjout); //
+            $reqAjout = "INSERT INTO scrap(nom, ingredient) VALUES ('$recette','$scrap')"; 
+            $pdo->query($reqAjout);
         }
     } else {
         echo "la variable n'existe pas";
