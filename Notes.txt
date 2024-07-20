@@ -1,0 +1,7 @@
+Notes :
+
+
+
+Les attributs déferlent et async ne marche que sur les scripts, pas sur le jQuery. À voir si ça affecte le chargement d'une page extérieure.
+
+Location (header . "nompage")

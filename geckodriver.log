@@ -1,0 +1,1885 @@
+1652881714615	geckodriver	INFO	Listening on 127.0.0.1:57742
+1652881717713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57743" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile4J7fbn"
+1652881717941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile4J7fbn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57743/devtools/browser/c6563038-c1a7-41ea-b42e-be36a8cb88b0
+1652881719048	Marionette	INFO	Listening on port 57750
+1652881719248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652881754585	Marionette	INFO	Stopped listening on port 57750
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652881759532	geckodriver	INFO	Listening on 127.0.0.1:57806
+1652881762625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57807" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilexlwKck"
+1652881762851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilexlwKck\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57807/devtools/browser/941ed538-2903-474d-adba-9c4a57502ffe
+1652881763977	Marionette	INFO	Listening on port 57818
+1652881764168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652881785733	Marionette	INFO	Stopped listening on port 57818
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652881861326	geckodriver	INFO	Listening on 127.0.0.1:58027
+1652881864399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58028" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile6sPAWe"
+1652881864628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile6sPAWe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58028/devtools/browser/74cc6e35-b1c2-475b-aa3c-f71efcab4ec5
+1652881865771	Marionette	INFO	Listening on port 58034
+1652881865940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.750g.com/assets/build/js/app.e08a0bad.js, line 1: ChunkLoadError: Loading chunk js/chunk/popinNewsletter failed.
+(error: https://static.750g.com/assets/build/js/chunk/popinNewsletter.fdc3f9be.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652881886708	Marionette	INFO	Stopped listening on port 58034
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652881963211	geckodriver	INFO	Listening on 127.0.0.1:58237
+1652881966327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58238" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileuLukSv"
+*** You are running in headless mode.
+1652881966546	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileuLukSv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58238/devtools/browser/2da9c1ff-bd2b-4227-88ec-88464913e6b5
+1652881967422	Marionette	INFO	Listening on port 58244
+1652881967871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=hachi, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652881987446	Marionette	INFO	Stopped listening on port 58244
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652882076589	geckodriver	INFO	Listening on 127.0.0.1:58453
+1652882079721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58454" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilePxPBWg"
+*** You are running in headless mode.
+1652882079942	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilePxPBWg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58454/devtools/browser/e54c85c7-be75-4316-b9d1-6d106be5af8a
+1652882080789	Marionette	INFO	Listening on port 58459
+1652882081252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=hachis, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652882100492	Marionette	INFO	Stopped listening on port 58459
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652882373593	geckodriver	INFO	Listening on 127.0.0.1:58738
+1652882376681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58739" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileMlMXEG"
+*** You are running in headless mode.
+1652882376903	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileMlMXEG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58739/devtools/browser/6f5e7e2a-d5d2-4ecb-b265-4e747c52537a
+1652882377800	Marionette	INFO	Listening on port 58746
+1652882378212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=hachis%3C/br%3E, line 456: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652882435618	Marionette	INFO	Stopped listening on port 58746
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652882515439	geckodriver	INFO	Listening on 127.0.0.1:58919
+1652882518507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58920" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile2gnBbu"
+*** You are running in headless mode.
+1652882518727	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile2gnBbu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58920/devtools/browser/5dd5ab06-e627-45fe-ac5c-9f46dc712fd4
+1652882519589	Marionette	INFO	Listening on port 58927
+1652882520045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652882541980	Marionette	INFO	Stopped listening on port 58927
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652882759244	geckodriver	INFO	Listening on 127.0.0.1:59190
+1652882762330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59191" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileGN07l7"
+*** You are running in headless mode.
+1652882762558	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileGN07l7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59191/devtools/browser/5ea55852-0b91-4c9a-ba10-45f02b4d20cc
+1652882763283	Marionette	INFO	Listening on port 59196
+1652882763368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652882781640	Marionette	INFO	Stopped listening on port 59196
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652882901448	geckodriver	INFO	Listening on 127.0.0.1:59417
+1652882904539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59418" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilevQ7fN0"
+*** You are running in headless mode.
+1652882904766	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilevQ7fN0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59418/devtools/browser/83388b11-2baf-4c08-b205-942e044b26a3
+1652882905651	Marionette	INFO	Listening on port 59423
+1652882906067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652882943062	Marionette	INFO	Stopped listening on port 59423
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652883028143	geckodriver	INFO	Listening on 127.0.0.1:59652
+1652883031208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59653" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilekn3Vu1"
+*** You are running in headless mode.
+1652883031453	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebu1652883034714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59673" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile7p0622"
+*** You are running in headless mode.
+1652883034942	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exiJavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652883051699	Marionette	INFO	Stopped listening on port 59663
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+e ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652883074740	Marionette	INFO	Stopped listening on port 59721
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652883129394	geckodriver	INFO	Listening on 127.0.0.1:60044
+1652883132483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60045" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileT1WYcW"
+*** You are running in headless mode.
+1652883132712	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileT1WYcW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60045/devtools/browser/0611f19c-ba36-4164-a99c-863bc882a98a
+1652883133437	Marionette	INFO	Listening on port 60050
+1652883133525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652883155440	Marionette	INFO	Stopped listening on port 60050
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652883214773	geckodriver	INFO	Listening on 127.0.0.1:60254
+1652883217872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60255" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileBvYXrr"
+*** You are running in headless mode.
+1652883218111	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileBvYXrr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60255/devtools/browser/ad4830e3-dfa9-4678-b7a3-c750130ab6c9
+1652883218877	Marionette	INFO	Listening on port 60261
+1652883218903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.750g.com/assets/build/js/app.e08a0bad.js, line 1: ChunkLoadError: Loading chunk js/chunk/popinNewsletter failed.
+(error: https://static.750g.com/assets/build/js/chunk/popinNewsletter.fdc3f9be.js)
+JavaScript error: https://static.750g.com/assets/build/js/app.e08a0bad.js, line 1: ChunkLoadError: Loading chunk js/chunk/router failed.
+(error: https://static.750g.com/assets/build/js/chunk/router.12e53593.js)
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652883267122	Marionette	INFO	Stopped listening on port 60261
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652883399744	geckodriver	INFO	Listening on 127.0.0.1:60513
+1652883402851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60514" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilejSw0ad"
+*** You are running in headless mode.
+1652883403073	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilejSw0ad\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60514/devtools/browser/2926b92f-4d40-4f0a-8498-238d53a0fae5
+1652883403808	Marionette	INFO	Listening on port 60520
+1652883403888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652883432475	Marionette	INFO	Stopped listening on port 60520
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652883510780	geckodriver	INFO	Listening on 127.0.0.1:60738
+1652883513866	mozrunner::runner	INFO	Running command: "C:\\P1652883516671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60752" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile5hNEjv"
+*** You are running in headless mode.
+1652883516901	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile5hNEjv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60752/devtools/browser/0ab039a0-2199-4f7e-a7ad-a65ac0d1c568
+1652883517782	Marionette	INFO	Listening on port 60787
+1652883518213	RemoteAgent	WAJavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652883538712	Marionette	INFO	Stopped listening on port 60787
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+	Stopped listening on port 60755
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652883605091	geckodriver	INFO	Listening on 127.0.0.1:61129
+1652883608164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61130" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileaIDIjH"
+*** You are running in headless mode.
+1652883608383	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileaIDIjH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61130/devtools/browser/5da778b2-fbd1-4950-bf18-695219f06c79
+1652883609245	Marionette	INFO	Listening on port 61137
+1652883609729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652883627500	Marionette	INFO	Stopped listening on port 61137
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652883861526	geckodriver	INFO	Listening on 127.0.0.1:61416
+1652883864611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61417" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileAv4VCC"
+*** You are running in headless mode.
+1652883864840	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileAv4VCC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61417/devtools/browser/ec9ce5cb-267f-4fee-a7a8-4f2ecef7c596
+1652883865574	Marionette	INFO	Listening on port 61423
+1652883865657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652883884732	Marionette	INFO	Stopped listening on port 61423
+1652883949328	geckodriver	INFO	Listening on 127.0.0.1:61625
+1652883952404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61626" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilebGjw0b"
+*** You are running in headless mode.
+1652883952626	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilebGjw0b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61626/devtools/browser/6802e8fb-3946-41df-8c66-c24b64e50226
+1652883953348	Marionette	INFO	Listening on port 61634
+1652883953429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd81652883984824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61716" "-no-remote" "-profile" "CJavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652883988789	Marionette	INFO	Stopped listening on port 61634
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ileRPuljx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61716/devtools/browser/6da97464-e093-43df-a6f0-700eb4d44894
+1652883985893	Marionette	INFO	Listening on port 61749
+1652883986357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652884034234	Marionette	INFO	Stopped listening on port 61749
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652884190420	geckodriver	INFO	Listening on 127.0.0.1:62098
+1652884193512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62099" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileI5E6Qn"
+*** You are running in headless mode.
+1652884193736	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileI5E6Qn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62099/devtools/browser/f4b4b0b3-d533-4057-b518-b8d770260834
+1652884194456	Marionette	INFO	Listening on port 62105
+1652884194538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652884215673	Marionette	INFO	Stopped listening on port 62105
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652884563681	geckodriver	INFO	Listening on 127.0.0.1:57907
+1652884566782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57908" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileNRSOTH"
+*** You are running in headless mode.
+1652884567030	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileNRSOTH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57908/devtools/browser/bb604b84-70d8-45ee-a096-bba222bd8ba6
+1652884567826	Marionette	INFO	Listening on port 57913
+1652884568338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652884587270	Marionette	INFO	Stopped listening on port 57913
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652884690412	geckodriver	INFO	Listening on 127.0.0.1:58144
+1652884693494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58145" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileeRH8dL"
+*** You are running in headless mode.
+1652884693722	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileeRH8dL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58145/devtools/browser/a52b0a7a-db8c-4b76-a7d3-0aec8cb81505
+1652884694450	Marionette	INFO	Listening on port 58150
+1652884694536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Port.onMessage event fired while context is inactive.
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652884713359	Marionette	INFO	Stopped listening on port 58150
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652884753007	geckodriver	INFO	Listening on 127.0.0.1:58339
+1652884756067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58340" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile4ndn32"
+*** You are running in headless mode.
+1652884756300	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile4ndn32\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58340/devtools/browser/30b8de38-f453-426e-afe2-2115db1e3419
+1652884757021	Marionette	INFO	Listening on port 58345
+1652884757105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652884807146	Marionette	INFO	Stopped listening on port 58345
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652884935059	geckodriver	INFO	Listening on 127.0.0.1:58600
+1652884938113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58601" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileOMrSGS"
+*** You are running in headless mode.
+1652884938341	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileOMrSGS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58601/devtools/browser/b28d1b42-3251-4723-9d39-2f4abfe12ff1
+1652884939140	Marionette	INFO	Listening on port 58607
+1652884939157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652884959397	Marionette	INFO	Stopped listening on port 58607
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652885299777	geckodriver	INFO	Listening on 127.0.0.1:58938
+1652885302845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58939" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilet6vkuz"
+*** You are running in headless mode.
+1652885303079	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilet6vkuz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58939/devtools/browser/4eecc2db-89fe-4efa-8740-cae87715d58f
+1652885303832	Marionette	INFO	Listening on port 58945
+1652885303862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652885324250	Marionette	INFO	Stopped listening on port 58945
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652885403733	geckodriver	INFO	Listening on 127.0.0.1:52148
+1652885406780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52149" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileoarUvE"
+*** You are running in headless mode.
+1652885407003	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileoarUvE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52149/devtools/browser/47a3b73a-8485-4710-acce-88f2c284661d
+1652885407734	Marionette	INFO	Listening on port 52154
+1652885407819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652885468541	Marionette	INFO	Stopped listening on port 52154
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652885703117	geckodriver	INFO	Listening on 127.0.0.1:52479
+1652885706212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52480" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileUs2N3N"
+*** You are running in headless mode.
+1652885706432	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileUs2N3N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52480/devtools/browser/96660192-76ae-4208-ad56-b4dc73825f16
+1652885707193	Marionette	INFO	Listening on port 52485
+1652885707245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652885736969	Marionette	INFO	Stopped listening on port 52485
+1652886424676	geckodriver	INFO	Listening on 127.0.0.1:53018
+1652886427773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53019" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofiled9nBlH"
+*** You are running in headless mode.
+1652886428002	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofiled9nBlH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53019/devtools/browser/3e7219e4-f493-4c4d-be9c-e1438609e126
+1652886428738	Marionette	INFO	Listening on port 53028
+1652886428807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652886463935	Marionette	INFO	Stopped listening on port 53028
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652887272202	geckodriver	INFO	Listening on 127.0.0.1:58363
+1652887275271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58364" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileyHlMPQ"
+*** You are running in headless mode.
+1652887275495	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileyHlMPQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58364/devtools/browser/ad328c1a-345f-429a-a5e1-0cd3f44d388b
+1652887276216	Marionette	INFO	Listening on port 58369
+1652887276302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652887318756	Marionette	INFO	Stopped listening on port 58369
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652896092260	geckodriver	INFO	Listening on 127.0.0.1:59185
+1652896095318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59186" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileEnZmhs"
+*** You are running in headless mode.
+1652896095563	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileEnZmhs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59186/devtools/browser/def65a6f-e591-42a9-bbb8-33572f0dc5f0
+1652896096478	Marionette	INFO	Listening on port 59191
+1652896096847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.750g.com/assets/build/js/app.e08a0bad.js, line 1: ChunkLoadError: Loading chunk js/chunk/router failed.
+(error: https://static.750g.com/assets/build/js/chunk/router.12e53593.js)
+JavaScript error: https://static.750g.com/assets/build/js/app.e08a0bad.js, line 1: ChunkLoadError: Loading chunk js/chunk/popinNewsletter failed.
+(error: https://static.750g.com/assets/build/js/chunk/popinNewsletter.fdc3f9be.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652896184421	Marionette	INFO	Stopped listening on port 59191
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+m/assets/build/js/app.e08a0bad.js, line 1: ChunkLoadError: Loading chunk js/chunk/popinNewsletter failed.
+(error: https://static.750g.com/assets/build/js/chunk/popinNewsletter.fdc3f9be.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652896171004	Marionette	INFO	Stopped listening on port 59277
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PConten1652896171499	Marionette	INFO	Stopped listening on port 59314
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652906061331	geckodriver	INFO	Listening on 127.0.0.1:53891
+1652906064415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53892" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilegC0fCM"
+*** You are running in headless mode.
+1652906064736	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilegC0fCM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53892/devtools/browser/eb0d95b5-3ca7-4ce8-845d-e33cbd624bbd
+1652906065522	Marionette	INFO	Listening on port 53897
+1652906065950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegC0fCM\thumbnails) because it does not exist
+omiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilekLY0bw\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilekLY0bw\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilekLY0bw\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilekLY0bw\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilekLY0bw\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilekLY0bw\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilekLY0bw\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilekLY0bw\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\RaJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofileD6qOJn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofileD6qOJn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofileD6qOJn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofileD6qOJn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofileD6qOJn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofileD6qOJn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofileD6qOJn\thumbnails) because it does not exist
+phael\AppData\Local\Temp\rust_mozprofilekLY0bw\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilekLY0bw\thumbnails) because it does not exist
+ late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilezJbDdk\protections.sqlite
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652906946757	geckodriver	INFO	Listening on 127.0.0.1:55242
+1652906949809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55243" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileNepKrz"
+*** You are running in headless mode.
+1652906950092	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileNepKrz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55243/devtools/browser/cb68c1a4-c664-4e90-b83d-2ff3edfb719f
+1652906950950	Marionette	INFO	Listening on port 55250
+1652906951362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652906952635	Marionette	INFO	Stopped listening on port 55250
+1652907007027	geckodriver	INFO	Listening on 127.0.0.1:55290
+1652907010070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55291" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile5uHD0X"
+*** You are running in headless mode.
+1652907010294	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile5uHD0X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55291/devtools/browser/79b70b0b-29d9-4a9d-8b54-59ae9f2d8336
+1652907011181	Marionette	INFO	Listening on port 55298
+1652907011626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.750g.com/assets/build/js/modules/searchFilter.v2.a6db9da5.js, line 1: TypeError: document.querySelector(...) is null
+1652907068408	Marionette	INFO	Stopped listening on port 55298
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652907084224	geckodriver	INFO	Listening on 127.0.0.1:55390
+1652907087315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55391" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileNYj4ns"
+*** You are running in headless mode.
+1652907087545	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileNYj4ns\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55391/devtools/browser/0340a384-18b4-45e2-99d9-81bab1f3d9fb
+1652907088288	Marionette	INFO	Listening on port 55396
+1652907088353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652907145436	Marionette	INFO	Stopped listening on port 55396
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652907292234	geckodriver	INFO	Listening on 127.0.0.1:55502
+1652907295337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55503" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilem24d6K"
+*** You are running in headless mode.
+1652907295577	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilem24d6K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55503/devtools/browser/c8c3ba63-c6b5-4c5a-9bf1-5757e36179c0
+1652907296358	Marionette	INFO	Listening on port 55509
+1652907296381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652907331638	Marionette	INFO	Stopped listening on port 55509
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652907622478	geckodriver	INFO	Listening on 127.0.0.1:55642
+1652907625546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55643" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofiler54Usl"
+*** You are running in headless mode.
+1652907625799	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofiler54Usl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55643/devtools/browser/53543288-efeb-432d-9282-7601fe403a73
+1652907626568	Marionette	INFO	Listening on port 55648
+1652907626587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.750g.com/assets/build/js/app.e08a0bad.js, line 1: ChunkLoadError: Loading chunk js/chunk/popinNewsletter failed.
+(error: https://static.750g.com/assets/build/js/chunk/popinNewsletter.fdc3f9be.js)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofiler54Usl\thumbnails) because it does not exist
+Exiting due to channel error.
+Exiting due to channel error.
+!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652909015572	geckodriver	INFO	Listening on 127.0.0.1:54495
+1652909018639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54496" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilevd6IlQ"
+*** You are running in headless mode.
+1652909018892	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilevd6IlQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54496/devtools/browser/07896e7e-105b-440c-8a18-79f6c0451555
+1652909019744	Marionette	INFO	Listening on port 54501
+1652909020191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.750g.com/assets/build/js/app.e08a0bad.js, line 1: ChunkLoadError: Loading chunk js/chunk/popinNewsletter failed.
+(error: https://static.750g.com/assets/build/js/chunk/popinNewsletter.fdc3f9be.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652909047457	Marionette	INFO	Stopped listening on port 54501
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652909380569	geckodriver	INFO	Listening on 127.0.0.1:54386
+1652909383649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54387" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile21EVOq"
+*** You are running in headless mode.
+1652909383921	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile21EVOq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54387/devtools/browser/f630d09c-30ec-4642-a7d5-d38a8fc6d5f9
+1652909384837	Marionette	INFO	Listening on port 54393
+1652909385210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652909435363	Marionette	INFO	Stopped listening on port 54393
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652909588100	geckodriver	INFO	Listening on 127.0.0.1:54607
+1652909591182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54608" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileo2cCkT"
+*** You are running in headless mode.
+1652909591437	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileo2cCkT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54608/devtools/browser/390b0baa-f584-4196-88cc-5e9549a82491
+1652909592367	Marionette	INFO	Listening on port 54615
+1652909592738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652909636159	Marionette	INFO	Stopped listening on port 54615
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652909749273	geckodriver	INFO	Listening on 127.0.0.1:61501
+1652909752335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61503" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile5RE177"
+*** You are running in headless mode.
+1652909752586	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile5RE177\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61503/devtools/browser/c413f9f4-cd0a-4345-a568-6a9adbfa6228
+1652909753408	Marionette	INFO	Listening on port 61509
+1652909753866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652909792006	Marionette	INFO	Stopped listening on port 61509
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652909975821	geckodriver	INFO	Listening on 127.0.0.1:61730
+1652909978860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61731" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilezXMU1Y"
+*** You are running in headless mode.
+1652909979110	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilezXMU1Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61731/devtools/browser/b6accd7a-c136-43fb-a54e-d2cf9c714687
+1652909979972	Marionette	INFO	Listening on port 61736
+1652909980418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652910014035	Marionette	INFO	Stopped listening on port 61736
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652910200380	geckodriver	INFO	Listening on 127.0.0.1:61938
+1652910203471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61939" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilegMhulq"
+*** You are running in headless mode.
+1652910203732	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilegMhulq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61939/devtools/browser/f47641f7-c4f8-4238-bd7e-893de722db4e
+1652910204568	Marionette	INFO	Listening on port 61944
+1652910205023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=blanquette, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652910233254	Marionette	INFO	Stopped listening on port 61944
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652910452600	geckodriver	INFO	Listening on 127.0.0.1:62148
+1652910455655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62149" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileiHHcVt"
+*** You are running in headless mode.
+1652910455923	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileiHHcVt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62149/devtools/browser/bb15c012-bc74-4db8-8cd3-508353809db8
+1652910456795	Marionette	INFO	Listening on port 62154
+1652910457187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=blanquette, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652910481628	Marionette	INFO	Stopped listening on port 62154
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652910607424	geckodriver	INFO	Listening on 127.0.0.1:62337
+1652910610470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62338" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile1FvecO"
+*** You are running in headless mode.
+1652910610720	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile1FvecO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62338/devtools/browser/d691cd75-ec63-4cad-b5c3-45c4816a65ad
+1652910611577	Marionette	INFO	Listening on port 62343
+1652910612008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=blanquette, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652910651911	Marionette	INFO	Stopped listening on port 62343
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652910847228	geckodriver	INFO	Listening on 127.0.0.1:62044
+1652910850285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62045" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile3RJdHV"
+*** You are running in headless mode.
+1652910850563	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile3RJdHV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62045/devtools/browser/e558feb8-d3a3-4289-8b64-f499a7f3d71b
+1652910851490	Marionette	INFO	Listening on port 62050
+1652910851834	RemoteAgent	WARN	TLS certificate errors will b1652910854666	mozrunner::runJavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=blanquette, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652910904113	Marionette	INFO	Stopped listening on port 62050
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+a\\Local\\Temp\\rust_mozprofileXGcy6h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62070/devtools/browser/86fd5b33-3606-4232-a4b8-26d23ccaf259
+1652910855939	Marionette	INFO	Listening on port 62090
+1652910856199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=blanquette, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652910891299	Marionette	INFO	Stopped listening on port 62090
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652912364723	geckodriver	INFO	Listening on 127.0.0.1:62798
+1652912367768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62799" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilesGC9wN"
+*** You are running in headless mode.
+1652912368031	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilesGC9wN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62799/devtools/browser/216f9eec-e2f5-456d-b825-811196d5b4ea
+1652912368871	Marionette	INFO	Listening on port 62805
+1652912369308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=blanquette, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652912397308	Marionette	INFO	Stopped listening on port 62805
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652912486035	geckodriver	INFO	Listening on 127.0.0.1:62998
+1652912489123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62999" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile1xUpdt"
+*** You are running in headless mode.
+1652912489383	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile1xUpdt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62999/devtools/browser/e4eba6dd-dd32-43da-9634-56b06d84f967
+1652912490318	Marionette	INFO	Listening on port 63006
+1652912490675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=blanquette, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652912516014	Marionette	INFO	Stopped listening on port 63006
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652912872637	geckodriver	INFO	Listening on 127.0.0.1:63288
+1652912875709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63289" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilev73z22"
+*** You are running in headless mode.
+1652912875955	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilev73z22\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63289/devtools/browser/9ddfd2eb-ae85-4426-9b5c-e740fb9acac7
+1652912876800	Marionette	INFO	Listening on port 63294
+1652912877249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=blanquette, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652912903454	Marionette	INFO	Stopped listening on port 63294
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652913140420	geckodriver	INFO	Listening on 127.0.0.1:63523
+1652913143489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63524" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileRVMy7S"
+*** You are running in headless mode.
+1652913143747	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileRVMy7S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63524/devtools/browser/ba6e10e7-aebf-4e30-85a8-17bc889f884d
+1652913144584	Marionette	INFO	Listening on port 63530
+1652913145025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=%22blanquette, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652913172773	Marionette	INFO	Stopped listening on port 63530
+1652913257831	geckodriver	INFO	Listening on 127.0.0.1:52432
+1652913260911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52433" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileOQ8Y6y"
+*** You are running in headless mode.
+1652913261167	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileOQ8Y6y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52433/devtools/browser/d80522d1-64ea-477e-bb46-8d4e16477eca
+1652913262007	Marionette	INFO	Listening on port 52440
+1652913262471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.750g.com/assets/build/js/app.e08a0bad.js, line 1: ChunkLoadError: Loading chunk js/chunk/router failed.
+(error: https://static.750g.com/assets/build/js/chunk/router.12e53593.js)
+JavaScript error: https://static.750g.com/assets/build/js/app.e08a0bad.js, line 1: ChunkLoadError: Loading chunk js/chunk/popinNewsletter failed.
+(error: https://static.750g.com/assets/build/js/chunk/popinNewsletter.fdc3f9be.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=%22blanquette, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652913287347	Marionette	INFO	Stopped listening on port 52440
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652913573496	geckodriver	INFO	Listening on 127.0.0.1:52682
+1652913576583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52683" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile7sSAU1"
+*** You are running in headless mode.
+1652913576832	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile7sSAU1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52683/devtools/browser/84a1369d-e105-40bd-8bf3-7cbb83cb31c1
+1652913577681	Marionette	INFO	Listening on port 52689
+1652913578124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=blanquette+de+veau, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652913618549	Marionette	INFO	Stopped listening on port 52689
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652913761421	geckodriver	INFO	Listening on 127.0.0.1:52883
+1652913764478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52884" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileDVKrnV"
+*** You are running in headless mode.
+1652913764735	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileDVKrnV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52884/devtools/browser/177f9915-b5b7-477a-bef0-14f343355741
+1652913765587	Marionette	INFO	Listening on port 52889
+1652913766019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=blanquette+de+veau, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652913789372	Marionette	INFO	Stopped listening on port 52889
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652914701436	geckodriver	INFO	Listening on 127.0.0.1:53192
+1652914704511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53193" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileyypurQ"
+*** You are running in headless mode.
+1652914704761	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileyypurQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53193/devtools/browser/966f50f1-e3cb-4388-adff-703ab8fc4db9
+1652914705685	Marionette	INFO	Listening on port 53199
+1652914706057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652914745919	Marionette	INFO	Stopped listening on port 53199
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652947837858	geckodriver	INFO	Listening on 127.0.0.1:64401
+1652947840924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64402" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile2pXP4u"
+*** You are running in headless mode.
+1652947841443	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile2pXP4u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64402/devtools/browser/ee7ad35e-0299-4ad1-a6b1-db39ec7187eb
+1652947843004	Marionette	INFO	Listening on port 64407
+1652947843091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+l%27orange, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652947860753	Marionette	INFO	Stopped listening on port 64407
+[Parent 24676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652947954888	geckodriver	INFO	Listening on 127.0.0.1:64580
+1652947957957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64581" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilelMiLT7"
+*** You are running in headless mode.
+1652947958449	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilelMiLT7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64581/devtools/browser/9fa089fb-f657-489d-b806-350d997ec977
+1652947959818	Marionette	INFO	Listening on port 64586
+1652947960021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+au+citron, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652947977359	Marionette	INFO	Stopped listening on port 64586
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 20084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652950477350	geckodriver	INFO	Listening on 127.0.0.1:61734
+1652950480441	mozrunner::runner	INFO	Running command: "C:\\P1652950480817	mozrunner::runner	INFO	Running command: "C:\\P1652950482829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61752" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileCQ6dHI"
+*** You are running in headless mode.
+1652950483247	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileCQ6dHI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61752/devtools/browser/f9b0b734-784f-451f-af2b-4937a5b63fa7
+1652950484414	MarionettJavaScript error: https://www.atelierdeschefs.fr/fr/recherchJavaScript error: https://www.atelierdeschefs.fr/fr/recherchJavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+au+citron, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652950496413	Marionette	INFO	Stopped listening on port 61815
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+l closing: too late to send/recv, messages will be lost
+
+1652950497532	geckodriver	INFO	Listening on 127.0.0.1:62102
+1652950500604	mozrunner::runner	INFO	Running command: "C:\\P1652950502374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62118" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile5xVHB4"
+*** You are running in headless mode.
+1652950502742	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile5xVHB4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62118/devtools/browser/aa79d7ba-01a2-4f36-b5c2-9bc356f39945
+1652950503700	Marionette	INFO	Listening on port 62158
+1652950503914	RemoteAgent	WAJavaScript error: https://www.atelierdeschefs.fr/fr/recherchJavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+au+citron, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652950513975	Marionette	INFO	Stopped listening on port 62158
+[Parent 21652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652950573779	geckodriver	INFO	Listening on 127.0.0.1:62613
+1652950576858	mozrunner::runner	INFO	Running command: "C:\\P1652950579717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62623" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileqjZjsB"
+*** You are running in headless mode.
+1652950579955	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileqjZjsB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62623/devtools/browser/59804a7a-e6a7-45c5-8eea-9135521148e6
+1652950581383	Marionette	INFO	Listening on port 62669
+1652950581764	RemoteAgent	WA1652950583301	Marionette	INFO	Stopped listening on port 6262JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+au+citron, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652950589782	Marionette	INFO	Stopped listening on port 62669
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652950669213	geckodriver	INFO	Listening on 127.0.0.1:62885
+1652950672308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62886" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilecsVTml"
+*** You are running in headless mode.
+1652950672542	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilecsVTml\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62886/devtools/browser/6b70741b-5141-43f7-b0e6-432537433814
+1652950673298	Marionette	INFO	Listening on port 62892
+1652950673340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+au+citron, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652950681066	Marionette	INFO	Stopped listening on port 62892
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652952497034	geckodriver	INFO	Listening on 127.0.0.1:63463
+1652952500107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63464" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilexVzJDF"
+*** You are running in headless mode.
+1652952500337	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilexVzJDF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63464/devtools/browser/ef9d4cf7-0a4e-447f-bbd5-100164f22940
+1652952501090	Marionette	INFO	Listening on port 63470
+1652952501160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+au+citron, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652952512082	Marionette	INFO	Stopped listening on port 63470
+1652952560095	geckodriver	INFO	Listening on 127.0.0.1:63642
+1652952563143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63643" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile81ye7u"
+*** You are running in headless mode.
+1652952563369	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile81ye7u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63643/devtools/browser/670527f3-ff72-4a83-91af-edc2cc2a5112
+1652952564207	Marionette	INFO	Listening on port 63648
+1652952564680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recettes-riz.php?k[]=au&k[]=lait, line 456: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652952577429	Marionette	INFO	Stopped listening on port 63648
+-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileHPGCqx"
+*** You are running in headless mode.
+1652952571339	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileHPGCqx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63706/devtools/browser/cbd195d7-6453-4beb-8a15-e88ffdfe2f71
+1652952572145	Marionette	INFO	Listening on port 63740
+1652952572640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recettes-riz.php?k[]=au&k[]=lait, line 456: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652952585286	Marionette	INFO	Stopped listening on port 63740
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652956034777	geckodriver	INFO	Listening on 127.0.0.1:49366
+1652956037858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49367" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilemzek68"
+*** You are running in headless mode.
+1652956038080	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilemzek68\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49367/devtools/browser/84b67c11-50a0-4566-a48d-42b6fc8e03b4
+1652956038839	Marionette	INFO	Listening on port 49372
+1652956038902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recettes-riz.php?k[]=au&k[]=lait, line 456: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652956050313	Marionette	INFO	Stopped listening on port 49372
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652956140904	geckodriver	INFO	Listening on 127.0.0.1:49817
+1652956143968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49818" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileVz3i1B"
+*** You are running in headless mode.
+1652956144205	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileVz3i1B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49818/devtools/browser/b66cc6da-db98-4d2c-b3db-810f78549d53
+1652956144967	Marionette	INFO	Listening on port 49823
+1652956144993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recettes-semoule.php?k[]=au&k[]=lait, line 456: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652956155197	Marionette	INFO	Stopped listening on port 49823
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652956420773	geckodriver	INFO	Listening on 127.0.0.1:50079
+1652956423865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50080" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileGCPBwE"
+*** You are running in headless mode.
+1652956424089	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileGCPBwE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50080/devtools/browser/a6170538-0a9e-44d9-9d61-524ed65d276e
+1652956424833	Marionette	INFO	Listening on port 50085
+1652956424887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recettes-riz.php?k[]=au&k[]=lait, line 456: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652956434696	Marionette	INFO	Stopped listening on port 50085
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileE6wjAh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50142/devtools/browser/f91cb185-e644-4108-a3b1-ad954ab5e70b
+1652956432596	Marionette	INFO	Listening on port 50172
+1652956432756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recettes-riz.php?k[]=au&k[]=lait, line 456: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652956443321	Marionette	INFO	Stopped listening on port 50172
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652973637593	geckodriver	INFO	Listening on 127.0.0.1:62346
+1652973640658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62347" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile0ki3L1"
+*** You are running in headless mode.
+1652973640887	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile0ki3L1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62347/devtools/browser/252fedbe-9089-4bfe-aa25-49c2bf7c887d
+1652973641665	Marionette	INFO	Listening on port 62353
+1652973641687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652973655132	Marionette	INFO	Stopped listening on port 62353
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652973774486	geckodriver	INFO	Listening on 127.0.0.1:62532
+1652973777528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62533" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilehg6KXO"
+*** You are running in headless mode.
+1652973777757	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilehg6KXO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62533/devtools/browser/914435e9-24ac-4be0-af14-77e0b867ff03
+1652973778500	Marionette	INFO	Listening on port 62538
+1652973778580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652973787190	Marionette	INFO	Stopped listening on port 62538
+1652973966636	geckodriver	INFO	Listening on 127.0.0.1:62747
+1652973969719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62748" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilezYJjzs"
+*** You are running in headless mode.
+1652973969948	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilezYJjzs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62748/devtools/browser/088c90df-124f-4c2f-85da-41fc6b311aee
+1652973970695	Marionette	INFO	Listening on port 62754
+1652973970755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652973979835	Marionette	INFO	Stopped listening on port 62754
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 24736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652974261863	geckodriver	INFO	Listening on 127.0.0.1:62953
+1652974264926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62954" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileKcacES"
+*** You are running in headless mode.
+1652974265161	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileKcacES\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62954/devtools/browser/e8b752a7-1508-4e93-a5fa-f55289ebd05f
+1652974265933	Marionette	INFO	Listening on port 62965
+1652974265970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652974274657	Marionette	INFO	Stopped listening on port 62965
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652974377929	geckodriver	INFO	Listening on 127.0.0.1:63142
+1652974380989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63143" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilec3whRA"
+*** You are running in headless mode.
+1652974381237	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilec3whRA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63143/devtools/browser/a7af6d7e-0c08-421e-be1f-c7fe8d220896
+1652974382048	Marionette	INFO	Listening on port 63149
+1652974382528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652974391251	Marionette	INFO	Stopped listening on port 63149
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1652995851150	geckodriver	INFO	Listening on 127.0.0.1:52080
+1652995854225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52081" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileaFvB7J"
+*** You are running in headless mode.
+1652995854606	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileaFvB7J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52081/devtools/browser/dcd2cea1-cb5b-4e1f-82ba-bbc20599470c
+1652995856314	Marionette	INFO	Listening on port 52087
+1652995856397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652995881567	Marionette	INFO	Stopped listening on port 52087
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652995900264	geckodriver	INFO	Listening on 127.0.0.1:52234
+1652995903337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52235" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileHRU0AL"
+*** You are running in headless mode.
+1652995903754	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileHRU0AL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52235/devtools/browser/af2547ee-06d0-4b44-bcd3-19352d5eb965
+1652995905498	Marionette	INFO	Listening on port 52242
+1652995906023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=risotto, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652995928453	Marionette	INFO	Stopped listening on port 52242
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652996814807	geckodriver	INFO	Listening on 127.0.0.1:52578
+1652996817897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52579" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilergjjLX"
+*** You are running in headless mode.
+1652996818469	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilergjjLX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52579/devtools/browser/a08e7c87-7572-4e05-879b-42b0a9cfc99d
+1652996820347	Marionette	INFO	Listening on port 52584
+1652996820591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=paella, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652996847139	Marionette	INFO	Stopped listening on port 52584
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652996917652	geckodriver	INFO	Listening on 127.0.0.1:52766
+1652996920737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52767" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile3EP85T"
+*** You are running in headless mode.
+1652996921065	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile3EP85T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52767/devtools/browser/570a3e5f-f22c-4a2d-ac43-3ceac93dc69b
+1652996922780	Marionette	INFO	Listening on port 52773
+1652996922828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=paella, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652996946509	Marionette	INFO	Stopped listening on port 52773
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+sts, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilejxwxIu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52829/devtools/browser/c3a17eb2-e770-48d6-938a-f1cd61428d40
+1652996936518	Marionette	INFO	Listening on port 52834
+1652996936804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Port.onMessage event fired while context is inactive.
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652996961235	Marionette	INFO	Stopped listening on port 52834
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652998817879	geckodriver	INFO	Listening on 127.0.0.1:54970
+1652998820959	mozrunner::runner	INFO	Running command: "C:\\P1652998823936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54979" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilerDfbsN"
+*** You are running in headless mode.
+1652998824208	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilerDfbsN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54979/devtools/browser/704462a7-b98b-4f4d-a14f-c1bbcd24d5f2
+1652998825110	Marionette	INFO	Listening on port 55014
+1652998825490	RemoteAgent	WAJavaScript error: https://www.atelierdeschefs.fr/fr/recherchJavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652998874774	Marionette	INFO	Stopped listening on port 55014
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652999323014	geckodriver	INFO	Listening on 127.0.0.1:64352
+1652999326102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64353" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilesQI6Fr"
+*** You are running in headless mode.
+1652999326363	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilesQI6Fr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64353/devtools/browser/eeb6292d-7985-4212-9bdb-ea506c1f9573
+1652999327274	Marionette	INFO	Listening on port 64358
+1652999327646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Port.onMessage event fired while context is inactive.
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652999356339	Marionette	INFO	Stopped listening on port 64358
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652999847625	geckodriver	INFO	Listening on 127.0.0.1:58502
+1652999850694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58503" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileIES8q7"
+*** You are running in headless mode.
+1652999850983	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileIES8q7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58503/devtools/browser/12c9069d-e807-4ed4-869d-f63705a29898
+1652999852091	Marionette	INFO	Listening on port 58508
+1652999852250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1652999861098	Marionette	INFO	Stopped listening on port 58508
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653005478505	geckodriver	INFO	Listening on 127.0.0.1:53561
+1653005481595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53562" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile9Tih3Y"
+*** You are running in headless mode.
+1653005481859	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile9Tih3Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53562/devtools/browser/f4402548-0c8e-44c2-a441-ba110af06889
+1653005482717	Marionette	INFO	Listening on port 53567
+1653005483137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653005572369	Marionette	INFO	Stopped listening on port 53567
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653006150539	geckodriver	INFO	Listening on 127.0.0.1:59944
+1653006153620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59945" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileqOy3S6"
+*** You are running in headless mode.
+1653006153883	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileqOy3S6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59945/devtools/browser/ad3addad-6e83-498d-8e24-7958ab3c3b06
+1653006154776	Marionette	INFO	Listening on port 59950
+1653006155170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653006183445	Marionette	INFO	Stopped listening on port 59950
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653007247649	geckodriver	INFO	Listening on 127.0.0.1:60398
+1653007250705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60399" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilekT9ef7"
+*** You are running in headless mode.
+1653007250963	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilekT9ef7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60399/devtools/browser/9a44602d-cd14-4a7f-ac1a-55479a0133ef
+1653007251903	Marionette	INFO	Listening on port 60406
+1653007252244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653007272920	Marionette	INFO	Stopped listening on port 60406
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653007413161	geckodriver	INFO	Listening on 127.0.0.1:60611
+1653007416253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60612" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileHtLQU3"
+*** You are running in headless mode.
+1653007416572	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileHtLQU3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60612/devtools/browser/ad3604b7-5001-4a71-95f7-c86bd63bdeb9
+1653007417492	Marionette	INFO	Listening on port 60617
+1653007417807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653007437474	Marionette	INFO	Stopped listening on port 60617
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653007496287	geckodriver	INFO	Listening on 127.0.0.1:60797
+1653007499378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60798" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile74chvI"
+*** You are running in headless mode.
+1653007499637	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile74chvI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60798/devtools/browser/fd2e2636-2982-4821-89ff-bf0b14890f29
+1653007500477	Marionette	INFO	Listening on port 60804
+1653007500917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653007529026	Marionette	INFO	Stopped listening on port 60804
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653008219048	geckodriver	INFO	Listening on 127.0.0.1:61139
+1653008222129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61140" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile2cdHQM"
+*** You are running in headless mode.
+1653008222404	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile2cdHQM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61140/devtools/browser/e517b5e2-ffd4-4ef0-b735-3a7ddba01839
+1653008223297	Marionette	INFO	Listening on port 61145
+1653008223678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653008294230	Marionette	INFO	Stopped listening on port 61145
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653008653279	geckodriver	INFO	Listening on 127.0.0.1:61411
+1653008656386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61412" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileM6Iljt"
+*** You are running in headless mode.
+1653008656655	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileM6Iljt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61412/devtools/browser/37b7ef9a-ef22-43fb-9816-1a0cbd329e08
+1653008657606	Marionette	INFO	Listening on port 61417
+1653008657933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653008709661	Marionette	INFO	Stopped listening on port 61417
+1653009064375	geckodriver	INFO	Listening on 127.0.0.1:61667
+1653009067463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61668" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileCBJhZD"
+*** You are running in headless mode.
+1653009067723	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileCBJhZD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61668/devtools/browser/ef6af7e0-657e-4969-bd3c-c26925628506
+1653009068560	Marionette	INFO	Listening on port 61675
+1653009069011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653009111069	Marionette	INFO	Stopped listening on port 61675
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653009180980	geckodriver	INFO	Listening on 127.0.0.1:61873
+1653009184047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61874" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilehgpBDE"
+*** You are running in headless mode.
+1653009184306	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilehgpBDE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61874/devtools/browser/32fde2c6-ce4f-4aa8-aba3-abddda729f4e
+1653009185158	Marionette	INFO	Listening on port 61879
+1653009185602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653009207120	Marionette	INFO	Stopped listening on port 61879
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653009466314	geckodriver	INFO	Listening on 127.0.0.1:62081
+1653009469400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62082" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileYXi2eP"
+*** You are running in headless mode.
+1653009469678	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileYXi2eP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62082/devtools/browser/f4c89d99-d218-4853-8457-1f138713b32e
+1653009470536	Marionette	INFO	Listening on port 62087
+1653009470957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653009493158	Marionette	INFO	Stopped listening on port 62087
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653010266790	geckodriver	INFO	Listening on 127.0.0.1:63927
+1653010269870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63928" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileu9eSH4"
+*** You are running in headless mode.
+1653010270136	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileu9eSH4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63928/devtools/browser/aff0cc15-57ed-456a-812c-1bc9a917ba81
+1653010271003	Marionette	INFO	Listening on port 63933
+1653010271425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653010312727	Marionette	INFO	Stopped listening on port 63933
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653011295512	geckodriver	INFO	Listening on 127.0.0.1:65236
+1653011298602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65237" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile1sFlIF"
+*** You are running in headless mode.
+1653011298868	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile1sFlIF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65237/devtools/browser/9e6954a0-3c61-410e-a12f-a48bdf1aeb59
+1653011299757	Marionette	INFO	Listening on port 65242
+1653011300152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Port.onMessage event fired while context is inactive.
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653011330873	Marionette	INFO	Stopped listening on port 65242
+1653011408635	geckodriver	INFO	Listening on 127.0.0.1:65433
+1653011411741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65434" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileCTAZu3"
+*** You are running in headless mode.
+1653011411999	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileCTAZu3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65434/devtools/browser/e44b4bec-4837-431f-91ce-c67ad07dfc6c
+1653011412895	Marionette	INFO	Listening on port 65440
+1653011413292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653011436112	Marionette	INFO	Stopped listening on port 65440
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 28440, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653011491907	geckodriver	INFO	Listening on 127.0.0.1:49240
+1653011494970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49241" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileAA5ttK"
+*** You are running in headless mode.
+1653011495234	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileAA5ttK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49241/devtools/browser/1ce088f3-a448-4866-b189-52fa9952d385
+1653011496169	Marionette	INFO	Listening on port 49247
+1653011496530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653011558369	Marionette	INFO	Stopped listening on port 49247
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653011633455	geckodriver	INFO	Listening on 127.0.0.1:49717
+1653011636538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49718" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileVpVR6v"
+*** You are running in headless mode.
+1653011636839	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileVpVR6v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49718/devtools/browser/c7a23662-faf4-4523-a047-6ecbcd9a488c
+1653011637849	Marionette	INFO	Listening on port 49724
+1653011638090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653011712249	Marionette	INFO	Stopped listening on port 49724
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653011911999	geckodriver	INFO	Listening on 127.0.0.1:49980
+1653011915060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49981" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileeluuna"
+*** You are running in headless mode.
+1653011915312	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileeluuna\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49981/devtools/browser/b0ace870-6926-4489-b28a-44c4534cfe35
+1653011916170	Marionette	INFO	Listening on port 49986
+1653011916601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653011941471	Marionette	INFO	Stopped listening on port 49986
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653012092156	geckodriver	INFO	Listening on 127.0.0.1:61373
+1653012095245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61374" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilecNQFyR"
+*** You are running in headless mode.
+1653012095505	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilecNQFyR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61374/devtools/browser/7784c820-91de-43ac-9e43-1ad13a71fe75
+1653012096382	Marionette	INFO	Listening on port 61379
+1653012096774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+%C3%A0+la+fraise, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653012117793	Marionette	INFO	Stopped listening on port 61379
+1653048211998	geckodriver	INFO	Listening on 127.0.0.1:56712
+1653048215072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56713" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilenxckxq"
+*** You are running in headless mode.
+1653048215287	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilenxckxq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56713/devtools/browser/eea05857-902d-4a91-a873-8c12a6dfa51a
+1653048216021	Marionette	INFO	Listening on port 56718
+1653048216104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+au+thon, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653048226169	Marionette	INFO	Stopped listening on port 56718
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653050862671	geckodriver	INFO	Listening on 127.0.0.1:63344
+1653050865740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63345" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileXYewUP"
+*** You are running in headless mode.
+1653050865959	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileXYewUP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63345/devtools/browser/59b79610-ac62-4ec0-aa1a-45dabf672113
+1653050866717	Marionette	INFO	Listening on port 63350
+1653050866783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+citrouille, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653050875820	Marionette	INFO	Stopped listening on port 63350
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653051542159	geckodriver	INFO	Listening on 127.0.0.1:56595
+1653051545260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56596" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilekZxOFL"
+*** You are running in headless mode.
+1653051545614	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilekZxOFL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56596/devtools/browser/b7b80cf2-3a01-4ce0-ad56-f814f42874b8
+1653051546932	Marionette	INFO	Listening on port 56601
+1653051547310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+au+chocolat, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653051566867	Marionette	INFO	Stopped listening on port 56601
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653051952174	geckodriver	INFO	Listening on 127.0.0.1:56783
+1653051955251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56784" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile4xGWN9"
+*** You are running in headless mode.
+1653051955599	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile4xGWN9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56784/devtools/browser/05f6a9d4-7ae2-4eb4-bded-0080b3a18836
+1653051956892	Marionette	INFO	Listening on port 56790
+1653051957307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+au+chocolat, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653051971673	Marionette	INFO	Stopped listening on port 56790
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+n.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56824/devtools/browser/2616fd6c-4441-4b72-a93c-e3cff1b4dca7
+1653051963594	Marionette	INFO	Listening on port 56853
+1653051963866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+au+chocolat, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653051977152	Marionette	INFO	Stopped listening on port 56853
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653240897201	geckodriver	INFO	Listening on 127.0.0.1:49703
+1653240900304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilegDe98V"
+*** You are running in headless mode.
+1653240900547	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilegDe98V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49704/devtools/browser/7e7e0d1a-0783-4377-be10-6776ef30f034
+1653240901345	Marionette	INFO	Listening on port 49717
+Read port: 49717
+1653240901382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegDe98V\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Raphael\AppData\Local\Temp\rust_mozprofilegDe98V\thumbnails) because it does not exist
+e errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=%22tarte, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653240983178	Marionette	INFO	Stopped listening on port 49793
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653241128540	geckodriver	INFO	Listening on 127.0.0.1:49972
+1653241131588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileysCA7S"
+*** You are running in headless mode.
+1653241131808	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofileysCA7S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49973/devtools/browser/9dc4f022-003b-4716-9d25-f02f1d313cf3
+1653241132527	Marionette	INFO	Listening on port 49993
+Read port: 49993
+1653241132611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.750g.com/assets/build/js/app.9ea266dc.js, line 1: ChunkLoadError: Loading chunk js/chunk/popinNewsletter failed.
+(error: https://static.750g.com/assets/build/js/chunk/popinNewsletter.fdc3f9be.js)
+JavaScript error: https://static.750g.com/assets/build/js/app.9ea266dc.js, line 1: ChunkLoadError: Loading chunk js/chunk/router failed.
+(error: https://static.750g.com/assets/build/js/chunk/router.12e53593.js)
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+aux+fraises, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653241210393	Marionette	INFO	Stopped listening on port 49993
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653241253130	geckodriver	INFO	Listening on 127.0.0.1:50186
+1653241256194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilehSMThR"
+*** You are running in headless mode.
+1653241256418	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofilehSMThR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50187/devtools/browser/b443d80d-4987-4cf8-b697-47c230373f33
+1653241257148	Marionette	INFO	Listening on port 50207
+Read port: 50207
+1653241257276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.750g.com/assets/build/js/app.9ea266dc.js, line 1: ChunkLoadError: Loading chunk js/chunk/router failed.
+(error: https://static.750g.com/assets/build/js/chunk/router.12e53593.js)
+JavaScript error: https://static.750g.com/assets/build/js/app.9ea266dc.js, line 1: ChunkLoadError: Loading chunk js/chunk/popinNewsletter failed.
+(error: https://static.750g.com/assets/build/js/chunk/popinNewsletter.fdc3f9be.js)
+JavaScript error: https://sdk.privacy-center.org/sdk.c1b0fd8f609ce112350373570d938763e5d8515c.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-fr failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-fr.c1b0fd8f609ce112350373570d938763e5d8515c.js)
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+aux+fraises, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653241323912	Marionette	INFO	Stopped listening on port 50207
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653241446799	geckodriver	INFO	Listening on 127.0.0.1:50423
+1653241449883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile9geFzC"
+*** You are running in headless mode.
+1653241450111	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile9geFzC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50424/devtools/browser/7cc1bcea-3a20-4335-8880-57b2f8a87d8d
+1653241450847	Marionette	INFO	Listening on port 50445
+Read port: 50445
+1653241450912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Port.onMessage event fired while context is inactive.
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+aux+fraises, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653241559592	Marionette	INFO	Stopped listening on port 50445
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653241655282	geckodriver	INFO	Listening on 127.0.0.1:50641
+1653241658348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile3auc43"
+*** You are running in headless mode.
+1653241658573	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Raphael\\AppData\\Local\\Temp\\rust_mozprofile3auc43\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50642/devtools/browser/ac56a36c-23a3-4108-81d1-cd501c26cbae
+1653241659304	Marionette	INFO	Listening on port 50662
+Read port: 50662
+1653241659335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.atelierdeschefs.fr/fr/recherche?type_recherche=recettes&k%5B%5D=tarte+aux+fraises, line 457: TypeError: Criteo.DisplayAcceptableAdIfAdblocked is not a function
+1653241680657	Marionette	INFO	Stopped listening on port 50662
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+[Parent 7072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

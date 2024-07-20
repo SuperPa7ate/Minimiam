@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "c:\xampp\htdocs\Scrapper\PYTHON\main.py", line 16, in <module>
+    link = recup_URL(text)
+  File "c:\xampp\htdocs\Scrapper\PYTHON\src\selenium_script.py", line 22, in recup_URL
+    browser=webdriver.Firefox(executable_path=driver)
+  File "C:\Users\Raphael\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\firefox\webdriver.py", line 176, in __init__
+    self.service.start()
+  File "C:\Users\Raphael\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\common\service.py", line 71, in start
+    self.process = subprocess.Popen(cmd, env=self.env,
+  File "C:\Users\Raphael\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 966, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Raphael\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 1375, in _execute_child
+    args = list2cmdline(args)
+  File "C:\Users\Raphael\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 561, in list2cmdline
+    for arg in map(os.fsdecode, seq):
+  File "C:\Users\Raphael\AppData\Local\Programs\Python\Python310\lib\os.py", line 822, in fsdecode
+    filename = fspath(filename)  # Does type-checking of `filename`.
+TypeError: expected str, bytes or os.PathLike object, not NoneType

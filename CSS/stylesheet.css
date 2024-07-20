@@ -1,0 +1,59 @@
+body {
+    background-color: #2c2929 ;
+    color: #f68642;
+}
+
+#LogoH {
+    height:40px;
+}
+
+/*
+FORM
+*/
+
+#app {
+    background: url('../IMAGES/hero.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#logoFP {
+    border-radius: 50% 20% / 10% 40%;
+    display:block;
+    margin-top:100px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 600px ;
+    height:400px ;
+    border:solid;
+}
+
+form {
+    margin-top:100px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+/*
+Bouton
+*/
+
+/* Table */
+
+
+/* Ecran de connexion */
+
+
+#FConnexion {
+    border-radius: 50% 20% / 10% 40%;
+}
+
+#formConnexion {
+    margin-top:200px;
+}
+#formInscription {
+    margin-top:200px;
+}
+
